@@ -9,7 +9,7 @@ Se optimizó la generacion de reportes para fines informativos
 
 ![image](https://github.com/Andrecl7/Repositorio-BI/assets/89672617/aa91acbe-1420-453c-9d7e-f964fcbf862a)
 ![image](https://github.com/Andrecl7/Repositorio-BI/assets/89672617/186f199f-8e58-49c8-a5c4-2ac852003415)
-![image](https://github.com/Andrecl7/Repositorio-BI/assets/89672617/478c5115-fcf2-435c-be07-7ad46e960d46)
+     ![image](https://github.com/Andrecl7/Repositorio-BI/assets/89672617/478c5115-fcf2-435c-be07-7ad46e960d46)
 
 
 ![image](https://github.com/Andrecl7/Repositorio-BI/assets/89672617/4322d392-cac6-49d8-9f5a-11c24bf38550)
